@@ -21,7 +21,7 @@ public class Estudiante
     }
 
     /**
-     * 
+     * accesor del nombre
      */
     public String getNombre() {
         return nombre;
